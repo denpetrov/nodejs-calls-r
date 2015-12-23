@@ -1,0 +1,16 @@
+{
+  "name": "nodecallsr",
+  "description": "Simple project to demonstrate how to call R script from node.js, and represent the result on html page.",
+  "repository" : { 
+   "type" : "git",
+   "url" : "https://github.com/denpetrov/nodejs-calls-r.git"
+  },
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Denis Petrov",
+  "license": "ISC"
+}
